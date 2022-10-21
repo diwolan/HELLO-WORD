@@ -1,0 +1,6 @@
+<?php
+$title = 'ONLINE TRANSPORT MANAGEMENT SYSTEM';
+//COLLEGE ONLINE TRANSPORT MANAGEMENT SYSTEM 
+$supervisor_name = "DR.COLLINS ODUOR";
+$developer_name = "KIPCHUMBA ENOCK";
+$developer_matric = "E46/85759/2017";
